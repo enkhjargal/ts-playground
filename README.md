@@ -1,1 +1,1 @@
-# typescript-tutorial
+# TypeScript best practices
